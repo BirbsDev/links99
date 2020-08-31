@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "modelagem-banco",
+  "private_key_id": "a7b322785079e2cc3b7f20ba14303add3df3235c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC89SWzhKngQF7p\nDm+dMb3kYiizlMGvEpCmAII2StlFHVefSL8ccRQoctcHhjIW4FPBokF4Xrsfygnw\nq5eWYYIrAjsPHMEVaIO+eEU/TAOhPAefSFz3xsT+tspeZH53UPN3T2d0TI/v1e8g\nA9qXycTJuzNHbNQpRGhEjQqo+0pIr3RSYN5ehWmWOcOpiHelf5VFZuktUpx6k0wD\nzo1FgTtO/isGd7ou5PlTGaSuItqoDeJMgiymg2xzrJrHvYkfqgIZHJzIDMCKCKz7\nnWc7GdhRrcZ0xoBB+9kVQwGsJNuRiIgjo4bAeXbToIRtlWh+r5S289tYRWvfKehv\nx8yx31fvAgMBAAECggEABPk65c+/HOz00pOTsoKFqgY/ZgKrWm1Vq1jmFIHB2ETe\nco3aoegEDNCBAmyw0tNSwQ0BRibQLBUIT/JkSgwE/hbP8STjnCmlFhVaVUEt80d+\nN94SvF7Z/o5XI0bn4UIbNm+7nF8LhteNtL0FOuuPp3Oq9N1TdEadq/g+aJY8rU8N\nWnkGafIbycRnzccIjg224rqrT53K02lR7QA0Pxl7Tsag+SWUsmmiUOOSBrYFw6dx\nkz6a4gCBVdUmPFCPHa6MuaAQnvZ3+QBl4eoTkjbPe3U1ZReKAo7kFf9AhgQaQadq\noKc0c7KO4Ydz6Ca11gOo5Q7ztlTTLX9uluXiSAKmQQKBgQDpcRokg9UBc2KQp8zI\nTiTYLO5nM+aqUb99uArTLusN5mDb13DMUk4QP8rMTJqHTmz7TAy5c2mWGWxTkkzE\nkjo3sUmfLCi6TAQBPUW6BQBbvsaRCAGd3AV4HucXA7I1+6OvxxN9mVhzrALL2LCq\n5arutUPaqxHZg5HzQLU8XDrFYQKBgQDPN5efvToqtuu+Lytimj7Y7he9vU1PCAIO\n9AmW3vmMf6B2i2bSjlSdA5gFml1do1r4HV8Flgeuh5dh2lmNdUvQ6NHqT+TGp6DP\nnIMWY06DNlgE2gFrNsi4+8zGtDo2UTsG814n4yhYxZ5l+nW8J5AD10QlSm6PyXjH\nkwccJgPPTwKBgQDA6Arvc9W4ri4cVd3fBNxjm7WiqPwLcSRp8oVXgKUTRnZyFTWM\nUtNZkC245/CmsYNTosO9GId/VyDyaqpvolrjnOi21VoOoTSKBaUyFGH4bs1OGiyj\n06bdXcQfe5lwDLN2VW9g0jCK3fEtnLJZdxLq0fXxpH5KnfQk7SsXZyvV4QKBgCXI\nrz8TU/3h6M5+71xFX9xSXcXdNLGKdkWfvffipII361xyQsd16HvQ4fFzmj6uwLGp\nOWBdYP00ACh5lgazMqXfLheZhc+rVSlGEqkMZo6KZDZOQh/4l1UTpN0+k7a/zRGR\nYsPHKd41+pIBv2IVnK72m5hpIAvb4sgRSSSa0esFAoGBAM/+DV+Ushu7Ct0E4KNa\n40AnjEx/CkDvBoQMeUkq/nUh8Ixr+F2E3+jomCmdib3HFMFCj4kRpvWY+uLNyDDL\n1T10PeeTkhSKfE4lq3RfC4ajmp3Mn8iw62PZ9pLpdLHNXZhY1s4hmpEK5Zy5VcaQ\n6yIhxnYVvcv+i4IMC7ImcYIx\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qbni8@modelagem-banco.iam.gserviceaccount.com",
+  "client_id": "114241502905367261144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qbni8%40modelagem-banco.iam.gserviceaccount.com"
+}
